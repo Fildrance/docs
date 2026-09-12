@@ -217,7 +217,7 @@ If there are merge conflicts at this step, note that you could publish stable be
 
 Specifically these two servers sometimes restart for the patch, but don't actually get it due to "funny network reasons". If this happens, any Maintainer can run ```!updateserver servername``` on Discord to restart them again.
 
-### 6. Announce that release is out and works on it are finished
+### 6. Announce that the release is out and works on it are finished
 
 Notify maintainers that all works related to release are finished.
 
