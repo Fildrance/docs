@@ -76,18 +76,18 @@ Make sure to add yourself to the 'finished reviewing' section after looking at a
 ### 2. Maintainers review the feature changes 
 Add any concerns/comments you have directly to the doc, you can also respond to other notes. Once you finished reviewing, add yourself to the "finished reviewing" list in the doc.
 
-#### The BLOCK tags
+#### The BLOCKER tags
 
-If something is unfinished/broken/etc enough that maintainer thinks it should not be in the current release (in its current state), add a note starting with "BLOCK", followed by the concern or reasoning. You can further add what hotfix/conditions you think could salvage the PR in question for the current release, or if it should just be reverted outright.
+If something is unfinished/broken/etc enough that maintainer thinks it should not be in the current release (in its current state), add a note starting with "BLOCKER", followed by the concern or reasoning. You can further add what hotfix/conditions you think could salvage the PR in question for the current release, or if it should just be reverted outright.
 
 Using this unambiguous tag will help us have a smoother meeting and make the later vote/hotfix/revert process easier to decide.
-If you do not mark your comment with BLOCK, we will still go over it during the meeting but it will be treated as a "non-binding" lesser concern/suggestion/idea/future feature, not something that demands a vote. (If you will be at the meeting, you will still be able to change this to a BLOCK then)
+If you do not mark your comment with BLOCKER, we will still go over it during the meeting but it will be treated as a "non-binding" lesser concern/suggestion/idea/future feature, not something that demands a vote. (If you will be at the meeting, you will still be able to change this to a BLOCKER then)
 
-Two such objections are required for a PR to go **instantly** to a revert vote (should be done in 'Release Review Thread' in discord), if someone adds a second one at this stage then we can see ahead of time that there will be a vote, and can maybe even figure out/address any concerns before the meeting. This helps everyone involved, so if at all possible, review and log BLOCKs early.
+Two such objections are required for a PR to go **instantly** to a revert vote (should be done in 'Release Review Thread' in discord), if someone adds a second one at this stage then we can see ahead of time that there will be a vote, and can maybe even figure out/address any concerns before the meeting. This helps everyone involved, so if at all possible, review and log BLOCKERs early.
 
 #### In Absentia
 
-These comments also serve as the best way for people who can't make it to the meeting to engage with the revert process in a fair way. If you can't show up but have a concern, leave a BLOCK note along with your concern/reason/considtions, the meeting will not remove BLOCKs just because you are not there to argue for them. (Although if no one else seconds it before or during the meeting, then it will still not go to a vote)
+These comments also serve as the best way for people who can't make it to the meeting to engage with the revert process in a fair way. If you can't show up but have a concern, leave a BLOCKER note along with your concern/reason/considtions, the meeting will not remove tags just because you are not there to argue for them. (Although if no one else seconds it before or during the meeting, then it will still not go to a vote)
 
 ## Week 4 Saturday 20:00 - Maintainer Meeting
 
