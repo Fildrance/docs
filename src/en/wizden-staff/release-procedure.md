@@ -19,7 +19,7 @@ The 'release captain' should start with creating a new instance of the checklist
 
 ### 1. Cut the staging branch
 
-Announce cutoff 1 hour before starting with message in #maintainers Discord channel
+Announce cutoff 1 hour before starting, with a message in the #maintainers Discord channel.
 ```@Maintainers Hello crew, i am your Release captain for this release! We are starting to prepare things up now. Staging cutoff in 1 hour.```
 
 Cutoff can be postponed if there are any problem with priority greater then p1.
