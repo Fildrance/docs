@@ -221,6 +221,6 @@ Specifically these two servers sometimes restart for the patch, but don't actual
 
 Notify maintainers that all works related to release are finished.
 
-``` @Maintainers Relase '<version>' is finished, out on CDN and Salamander! If you will notice any critical problems - please share them and make sure to prioritize hotfixes or reverts over other kind of works. ```
+``` @Maintainers Relase '<version>' has completed, it's out on the CDN. If you notice any critical problems - please share them and make sure to prioritize hotfixes or reverts over other kinds of work. ```
 
 'Release captain' should orchestrate works on any urgent fixes / reverts that might surface once the new version is available to players. Pay extra attention to Admin and Downstream (#space-wizards-enclave Discord channel) feedback.
