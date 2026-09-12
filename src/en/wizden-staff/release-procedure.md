@@ -223,4 +223,4 @@ Notify maintainers that all works related to release are finished.
 
 ``` @Maintainers Relase '<version>' is finished, out on CDN and Salamander! If you will notice any critical problems - please share them and make sure to prioritize hotfixes or reverts over other kind of works. ```
 
-'Release captain' should orchestrate works on any urgent fixes / reverts that will surface once new version is available to players. Pay extra attentntion to Admins and forks (#space-wizards-enclave Discord channel) feedback.
+'Release captain' should orchestrate works on any urgent fixes / reverts that might surface once the new version is available to players. Pay extra attention to Admin and Downstream (#space-wizards-enclave Discord channel) feedback.
