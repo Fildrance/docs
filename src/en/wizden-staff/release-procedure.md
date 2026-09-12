@@ -13,7 +13,7 @@ Weeks 1-3 of the release cycle contain no special events related to our new rele
 ### 0. Coordinate
 Before process starts, 'Release captain' should be chosen. It is temporary informal role during this release, controlling execution of all release key steps. When the person is chosen - announce so in staff channel and tag @maintainers with message (can be done together with staging cutoff announcement), to ensure no one else is already on it. It is the Producer role team's responsibility to arrange who will be Release Captain.
 
-'Release captain' hat can be handed over for the rest of duration of release or just temporarily in case current 'captain' cannot fully operate due to any problems, having person who can properly dedicate time to release coordination is of most importance.
+The 'release captain' hat can be handed over for the rest of duration of the release or just temporarily, in case the current 'captain' cannot fully operate due to any problems. Having someone who can properly dedicate time to the release coordination is of utmost importance.
 
 'Release captain' should start with creating new instance of checklist (from temlate - https://outline.spacestation14.com/settings/templates/release-check-list-Qacv6vN8XM) and should keep it up to date.
 
