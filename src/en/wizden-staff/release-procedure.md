@@ -4,7 +4,7 @@ All times are in CEST/UTC+2
 We can always just deviate from the established times below, if necessary. But having a particular time written down would help us know when we should consider some part of the process to be overdue and start asking about it
 
 This page describes how our release cycle functions. 
-In short, we use 4-week based release cycle. 'Anchor' for cycle start and end is 'maintainers meeting' event. One release cycle does not technically (calendar-wise) 'end' with 'maintainers meeting', it 'overlaps' with next one, we are allowed to add code for next release (in master branch), while we are stabilizing our release ('staing' or later - 'stable' branch). Each cycle SHOULD lead to creation of new stable release.
+In short, we use a 4-week based release cycle. The 'anchor' for cycle start and end is the 'maintainer meeting' event. One release cycle does not technically (calendar-wise) 'end' with the 'maintainer meeting', it 'overlaps' with the start of the next cycle. We are allowed to add code for the next release (in master branch), while we are stabilizing our release ('staging' or later - 'stable' branch). Each cycle SHOULD lead to the creation of a new stable release.
 
 ## Week 3 of cycle - Saturday 20:00 - Staging cutoff
 
