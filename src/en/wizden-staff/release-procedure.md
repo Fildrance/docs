@@ -22,7 +22,7 @@ The 'release captain' should start with creating a new instance of the checklist
 Announce cutoff 1 hour before starting, with a message in the #maintainers Discord channel.
 ```@Maintainers Hello crew, I will be coordinating this release. Staging cutoff in 1 hour.```
 
-Cutoff can be postponed if there are any problems with priority greater then P1.
+Cutoff can be postponed by the 'release captain' in case there are any problems with priority greater than P1.
 
 Otherwise run the `ss14-prepstaging` function from [Myra's powershell script](https://gist.github.com/VasilisThePikachu/762b90187a5f9a0cca3249cc335cab31). It does the whole cut for you: it fetches `upstream`, syncs your local `staging` with `upstream/staging` (**oldest** commit in the update), merges `upstream/master` into it and pushes the result (**newest** commit), then prints a ready-to-paste Release Review Thread skeleton (title, commit range, compare URL and a placeholder for the Outline doc link).
 
