@@ -46,7 +46,7 @@ Otherwise run the `ss14-prepstaging` function from [Myra's powershell script](ht
 >git push upstream staging
 >```
 
-Starting that point - further merges into Staging should only happen if it's REALLY necessary, to ensure that we have time to review proposed changes and don't break things in the last moment. The process for this follows the [Hotfix Procedure](https://docs.spacestation14.com/en/wizden-staff/maintainer/hotfix-procedure.html). Revert or other changes may also be the result of a Maintainer vote after the meeting, this will be detailed below.
+Starting from this point, further merges into Staging should only happen if it's REALLY necessary, to ensure that we have time to review proposed changes and don't break things in the last moment. The process for this follows the [Hotfix Procedure](https://docs.spacestation14.com/en/wizden-staff/maintainer/hotfix-procedure.html). Revert or other changes may also be the result of a Maintainer vote after the meeting, this will be detailed below.
 
 ### 2. Create the Outline doc and open the Release Review Thread
 
