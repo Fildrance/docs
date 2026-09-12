@@ -15,7 +15,7 @@ Before process starts, 'Release captain' should be chosen. It is temporary infor
 
 The 'release captain' hat can be handed over for the rest of duration of the release or just temporarily, in case the current 'captain' cannot fully operate due to any problems. Having someone who can properly dedicate time to the release coordination is of utmost importance.
 
-'Release captain' should start with creating new instance of checklist (from temlate - https://outline.spacestation14.com/settings/templates/release-check-list-Qacv6vN8XM) and should keep it up to date.
+The 'release captain' should start with creating a new instance of the checklist (from template - https://outline.spacestation14.com/settings/templates/release-check-list-Qacv6vN8XM) and should keep it up to date throughout the release process.
 
 ### 1. Cut the staging branch
 
