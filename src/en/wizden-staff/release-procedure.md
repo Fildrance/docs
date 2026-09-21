@@ -156,7 +156,7 @@ If the fix gets completed before the 'End Time', then 'Release captain' can star
 
 > It is up to 'Release captain' to choose if problem fixes worth additional time until release, but as a general rule it should be noted that complex/heavy fixes are undesirable (highly discouraged), as 'staging' branch does not have any testing grounds.
 
-## The Release (timinig depends on 'when its ready'™)
+## The Release (timing depends on 'when it's ready'™)
 
 ### 1. Merge Staging into Stable
 
