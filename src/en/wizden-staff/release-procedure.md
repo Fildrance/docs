@@ -121,7 +121,7 @@ Feedback Pop-Ups is a feature that allows us to request players ingame to provid
 ## Right after the Meeting
 Votes are immediately started for blocked PRs. Open a Discourse thread for each vote in the Discord 'Release Review Thread'. If multiple PRs are conceptually linked, and/or were contested "as one", they can be combined into one thread. Copy the summary of the situation from the meeting notes for anyone who was not present at the Meeting. The recording might not yet be available for review before votes have to be cast.
 
-Polls will be kept open until the official release time (roughly 24 hours later), so that every Maintainer can get their chance to vote. They must have only 2 outcomes, plus Abstain: such as Keep/Revert/Abstain, or Keep/Hotfix/Abstain. Abstain votes will not have any effect on the outcome, they merely serve to indicate that someone has seen the vote but is not participating. 
+Polls will be kept open until the official release time (roughly 24 hours later), so that every Maintainer can get their chance to vote. They must have only 2 outcomes, plus Abstain: such as Keep/Revert/Abstain, or Keep/Hotfix/Abstain. Abstain votes will not have any effect on the outcome; they merely serve to indicate that someone has seen the vote but is not participating. 
 >Binary votes leave no requirement for interpretation when they finish, so we don't need to have the Maintainer team assembled for closing up the release. Whoever is there can enact the results, even if alone, with no special pressure or responsibility for making "the correct call", since it has already been determined by (the best available) consensus.
 
 Afterwards, link the threads in #ongoing-votes and ping all maintainers.
