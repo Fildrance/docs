@@ -125,7 +125,7 @@ Polls will be kept open until the official release time (roughly 24 hours later)
 >Binary votes leave no requirement for interpretation when they finish, so we don't need to have the Maintainer team assembled for closing up the release. Whoever is there can enact the results, even if alone, with no special pressure or responsibility for making "the correct call", since it has already been determined by (the best available) consensus.
 
 Afterwards, link the threads in #ongoing-votes and ping all maintainers.
-``` @Maintainers Votes for reverts/hotfixes are up, please make sure to leave a vote, it will be closed in next 24h```
+``` @Maintainers: Votes for reverts/hotfixes are up. Please make sure to leave a vote; it will be closed in the next 24 hours.```
 
 ## Week 4 - Sunday, before Release
 
