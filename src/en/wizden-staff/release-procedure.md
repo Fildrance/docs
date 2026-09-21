@@ -135,7 +135,7 @@ Release can be postponed but status on hotfixes should be kept up to date by the
 
 ## Week 4 - Sunday, 21:00 - The Official Release Time
 
-The Maintainers present can begin. If necessary, coordinate in the 'Release Review Thread' who's doing what. Close the votes and check the status of any other release blockers.
+The Maintainers present can begin. If necessary, coordinate in the 'Release Review Thread' on who's doing what. Close the votes and check the status of any other release blockers.
 
 * If a vote's result is KEEP, the PR is no longer considered a blocker even if we want to later fix it.
 * If a vote's result is REVERT, create a PR to revert the feature from Staging. This does not require multiple maint approvals - it already has them from the vote. Since we are reverting a feature from master, before it ever hit stable, remove it from the changelog as well
