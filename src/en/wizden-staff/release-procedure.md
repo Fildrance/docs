@@ -216,7 +216,7 @@ If there are merge conflicts at this step, note that you could publish stable be
 
 ### 5. Monitor if Salamander actually gets the new release after their next restart
 
-Specifically these two servers sometimes restart for the patch, but don't actually get it due to "funny network reasons". If this happens, any Maintainer can run ```!updateserver servername``` on Discord to restart them again.
+Specifically, these two servers sometimes restart for the patch but don't actually get it due to "funny network reasons". If this happens, any Maintainer can run ```!updateserver servername``` on Discord to restart them again.
 
 ### 6. Announce that the release is out and works on it are finished
 
