@@ -218,10 +218,10 @@ If there are merge conflicts at this step, note that you could publish stable be
 
 Specifically, these two servers sometimes restart for the patch but don't actually get it due to "funny network reasons". If this happens, any Maintainer can run ```!updateserver servername``` on Discord to restart them again.
 
-### 6. Announce that the release is out and works on it are finished
+### 6. Announce that the release is out and all work on it is finished
 
-Notify maintainers that all works related to release are finished.
+Notify maintainers that all work related to the release is finished.
 
-``` @Maintainers Relase '<version>' has completed, it's out on the CDN. If you notice any critical problems - please share them and make sure to prioritize hotfixes or reverts over other kinds of work. ```
+``` @Maintainers Release '<version>' has been completed; it's out on the CDN. If you notice any critical problems, please share them and make sure to prioritize hotfixes or reverts over other kinds of work. ```
 
-'Release captain' should orchestrate works on any urgent fixes / reverts that might surface once the new version is available to players. Pay extra attention to Admin and Downstream (#space-wizards-enclave Discord channel) feedback.
+'Release captain' should orchestrate work on any urgent fixes/reverts that might surface once the new version is available to players. Pay extra attention to Admin and Downstream (#space-wizards-enclave Discord channel) feedback.
