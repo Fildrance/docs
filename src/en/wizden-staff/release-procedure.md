@@ -201,20 +201,20 @@ To do it manually, go to [github's web GUI](https://github.com/space-wizards/spa
 ![runpublish.png](../assets/images/wizden-staff/runpublish.png)
 
 
-Make sure that publish workflow finishes green, and check changelog discord channel to make sure new updates are published.
+Make sure that the publish workflow finishes green, and check the changelog Discord channel to make sure new updates are published.
 
-// TODO - need to add steps that will create GitHub release record for new release, ideally without any additional manual actions
+// TODO - need to add steps that will create a GitHub release record for the new release, ideally without any additional manual actions
 
 
 ### 4. If there were any hotfixes on Staging that weren't already merged back, merge Stable into Master.
 
-This needs to be done via PR on github (because the master branch is protected from pushing).
+This needs to be done via a PR on GitHub (because the master branch is protected from pushing).
 You can merge this PR by yourself immediately, but **DO NOT SQUASH IT**.
 
-If there are merge conflicts at this step, note that you could publish stable before you get bogged down fixing the conflict for master so meanwhile the publish tests can run.
+If there are merge conflicts at this step, note that you could publish stable before you get bogged down fixing the conflict for master, so the publish tests can run meanwhile.
 
 
-### 5. Monitor if Salamander actually gets the new release after their next restart
+### 5. Monitor whether Salamander actually gets the new release after their next restart
 
 Specifically, these two servers sometimes restart for the patch but don't actually get it due to "funny network reasons". If this happens, any Maintainer can run ```!updateserver servername``` on Discord to restart them again.
 
