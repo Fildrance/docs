@@ -24,7 +24,7 @@ Announce the cutoff 1 hour before starting, with a message in the #maintainers D
 
 The cutoff can be postponed by the 'release captain' if there are any problems with a priority higher than P1.
 
-Otherwise run the `ss14-prepstaging` function from [Myra's powershell script](https://gist.github.com/VasilisThePikachu/762b90187a5f9a0cca3249cc335cab31). It does the whole cut for you: it fetches `upstream`, syncs your local `staging` with `upstream/staging` (**oldest** commit in the update), merges `upstream/master` into it and pushes the result (**newest** commit), then prints a ready-to-paste Release Review Thread skeleton (title, commit range, compare URL and a placeholder for the Outline doc link).
+Otherwise, run the `ss14-prepstaging` function from [Myra's PowerShell script](https://gist.github.com/VasilisThePikachu/762b90187a5f9a0cca3249cc335cab31). It does the whole cut for you: it fetches `upstream`, syncs your local `staging` with `upstream/staging` (**oldest** commit in the update), merges `upstream/master` into it and pushes the result (**newest** commit), then prints a ready-to-paste Release Review Thread skeleton (title, commit range, compare URL, and a placeholder for the Outline doc link).
 
 >If you need to do it manually:
 >```
