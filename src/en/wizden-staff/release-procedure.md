@@ -152,7 +152,7 @@ If the hotfixes could not be finished or tested in time, we enter a Delay. The e
 
 If the fix gets completed before the 'End Time', then 'Release captain' can start the release immediately, but they are also free to just note it and leave someone else to do it later within the accepted Delay.
 
-'Release captain' should reconvene at the End Time, to decide the continued fate of the blocking PR(s). At this point there will likely be Maintainer consensus established in some way, written decisions from the Lead Maintainers / Game Director, or Lead Maintainers will be present, but if they aren't, then the Maintainers present decide whether to revert the PR in question or go into overtime waiting for the fix. There is no script for after going into overtime.
+'Release captain' should reconvene at the End Time, to decide the continued fate of the blocking PR(s). At this point, there will likely be Maintainer consensus established in some way, written decisions from the Lead Maintainers / Game Director, or Lead Maintainers will be present; but if they aren't, then the Maintainers present decide whether to revert the PR in question or go into overtime waiting for the fix. There is no script for after going into overtime.
 
 > It is up to the 'Release captain' to decide whether problem fixes are worth the additional time until release, but as a general rule, it should be noted that complex/heavy fixes are undesirable (highly discouraged), as the 'staging' branch does not have any testing grounds.
 
