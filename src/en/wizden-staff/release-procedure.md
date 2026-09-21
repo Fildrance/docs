@@ -131,7 +131,7 @@ Afterwards, link the threads in #ongoing-votes and ping all maintainers.
 
 The proposed hotfix(es) can be prepared before release, but no one should feel forced to code just so we don't have a delay. If we are voting on a hotfix then we have already accepted a potential delay. It's also possible that the vote will decide to keep the PR, making the fix/change unnecessary.
 
-Release can be postponed but status on hotfixes should be kept up to date by the 'Release captain'.
+The release can be postponed, but the status of hotfixes should be kept up to date by the 'Release Captain'.
 
 ## Week 4 - Sunday, 21:00 - The Official Release Time
 
