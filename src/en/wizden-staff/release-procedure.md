@@ -8,7 +8,7 @@ In short, we use a 4-week-based release cycle. The 'anchor' for the cycle start 
 
 ## Week 3 of cycle - Saturday 20:00 - Staging cutoff
 
-Weeks 1-3 of the release cycle contain no special events related to our new release, PRs are merged into master. Activities targeted at the previous release (stabilization/hotfixing/etc) are described later in this document.
+Weeks 1-3 of the release cycle contain no special events related to our new release; PRs are merged into master. Activities targeted at the previous release (stabilization/hotfixing/etc.) are described later in this document.
 
 ### 0. Coordinate
 Before the process starts, a 'Release captain' should be chosen. It is a temporary, informal role during this release, controlling the execution of all release key steps. When the person is chosen - announce so in the staff channel and tag @maintainers (can be done together with the staging cutoff announcement), to ensure no one else is already on it. It is the Producer role team's responsibility to arrange who will be Release Captain.
