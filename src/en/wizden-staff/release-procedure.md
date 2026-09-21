@@ -154,7 +154,7 @@ If the fix gets completed before the 'End Time', then 'Release captain' can star
 
 'Release captain' should reconvene at the End Time, to decide the continued fate of the blocking PR(s). At this point there will likely be Maintainer consensus established in some way, written decisions from the Lead Maintainers / Game Director, or Lead Maintainers will be present, but if they aren't, then the Maintainers present decide whether to revert the PR in question or go into overtime waiting for the fix. There is no script for after going into overtime.
 
-> It is up to 'Release captain' to choose if problem fixes worth additional time until release, but as a general rule it should be noted that complex/heavy fixes are undesirable (highly discouraged), as 'staging' branch does not have any testing grounds.
+> It is up to the 'Release captain' to decide whether problem fixes are worth the additional time until release, but as a general rule, it should be noted that complex/heavy fixes are undesirable (highly discouraged), as the 'staging' branch does not have any testing grounds.
 
 ## The Release (timing depends on 'when it's ready'™)
 
