@@ -78,7 +78,7 @@ Add any concerns/comments you have directly to the doc, you can also respond to 
 
 #### The BLOCKER tags
 
-If something is unfinished/broken/etc enough that maintainer thinks it should not be in the current release (in its current state), add a note starting with "BLOCKER", followed by the concern or reasoning. You can further add what hotfix/conditions you think could salvage the PR in question for the current release, or if it should just be reverted outright.
+If something is unfinished/broken/etc. enough that maintainers think it should not be in the current release (in its current state), add a note starting with "BLOCKER", followed by the concern or reasoning. You can further add what hotfix/conditions you think could salvage the PR in question for the current release, or if it should just be reverted outright.
 
 Using this unambiguous tag will help us have a smoother meeting and make the later vote/hotfix/revert process easier to decide.
 If you do not mark your comment with BLOCKER, we will still go over it during the meeting but it will be treated as a "non-binding" lesser concern/suggestion/idea/future feature, not something that demands a vote. (If you will be at the meeting, you will still be able to change this to a BLOCKER then)
