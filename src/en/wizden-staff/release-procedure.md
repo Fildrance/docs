@@ -87,7 +87,7 @@ Two such objections are required for a PR to go **instantly** to a revert vote (
 
 #### In Absentia
 
-These comments also serve as the best way for people who can't make it to the meeting to engage with the revert process in a fair way. If you can't show up but have a concern, leave a BLOCKER note along with your concern/reason/considtions, the meeting will not remove tags just because you are not there to argue for them. (Although if no one else seconds it before or during the meeting, then it will still not go to a vote)
+These comments also serve as the best way for people who can't make it to the meeting to engage with the revert process in a fair way. If you can't show up but have a concern, leave a BLOCKER note along with your concern/reason/considerations; the meeting will not remove tags just because you are not there to argue for them. (Although if no one else seconds it before or during the meeting, then it will still not go to a vote)
 
 ## Week 4 Saturday 20:00 - Maintainer Meeting
 
