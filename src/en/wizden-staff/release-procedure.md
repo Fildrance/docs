@@ -83,7 +83,7 @@ If something is unfinished/broken/etc enough that maintainer thinks it should no
 Using this unambiguous tag will help us have a smoother meeting and make the later vote/hotfix/revert process easier to decide.
 If you do not mark your comment with BLOCKER, we will still go over it during the meeting but it will be treated as a "non-binding" lesser concern/suggestion/idea/future feature, not something that demands a vote. (If you will be at the meeting, you will still be able to change this to a BLOCKER then)
 
-Two such objections are required for a PR to go **instantly** to a revert vote (should be done in 'Release Review Thread' in discord), if someone adds a second one at this stage then we can see ahead of time that there will be a vote, and can maybe even figure out/address any concerns before the meeting. This helps everyone involved, so if at all possible, review and log BLOCKERs early.
+Two such objections are required for a PR to go **instantly** to a revert vote (should be done in the 'Release Review Thread' in Discord). If someone adds a second one at this stage, then we can see ahead of time that there will be a vote and can maybe even figure out/address any concerns before the meeting. This helps everyone involved, so if at all possible, review and log BLOCKERs early.
 
 #### In Absentia
 
